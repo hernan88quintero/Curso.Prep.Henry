@@ -42,7 +42,7 @@ function suma(x, y) {
     return formulaSuma;
 }
 
-suma();
+suma(1, 2);
 
 function resta(y, x) {
   // Resta "y" de "x" y devuelve el valor
